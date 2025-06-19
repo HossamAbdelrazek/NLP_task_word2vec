@@ -9,14 +9,6 @@ You'll find:
 * How to load pre-trained word vectors like GloVe
 * Fun stuff like finding similar words and averaging embeddings
 
-**`ner_with_spacy.ipynb`**
-Here, I play around with Named Entity Recognition (NER) using SpaCy.
-It covers:
-
-* Loading and formatting datasets (like CoNLL 2003)
-* Setting things up so SpaCy can train on them
-* Getting a basic NER pipeline running
-
 **`Pytorch_training_and_testing.ipynb`**
 This one’s all about building a simple model from scratch in PyTorch.
 What it includes:
